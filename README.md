@@ -8,8 +8,7 @@
 
 ### Image Detection
 <!-- Replace the path below with your image file -->
-![Image Detection Demo]
-(https://raw.githubusercontent.com/Diya-MD/fish-Identification-and-detection/main/assets/output_moorish-idol.jpg)
+![Image Detection Demo](https://raw.githubusercontent.com/Diya-MD/fish-Identification-and-detection/main/assets/output_moorish-idol.jpg)
 
 ### Video Detection
 <!-- Replace the path below with your video file -->
