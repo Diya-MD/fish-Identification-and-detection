@@ -4,20 +4,6 @@
 
 ---
 
-## 📸 Demo
-
-### Image Detection
-<!-- Replace the path below with your image file -->
-![Image Detection Demo](https://raw.githubusercontent.com/Diya-MD/fish-Identification-and-detection/main/assets/output_moorish-idol.jpg)
-
-### Video Detection
-<!-- Replace the path below with your video file -->
-![Demo](https://raw.githubusercontent.com/Diya-MD/fish-Identification-and-detection/main/assets/demo.gif)
-
-> _Upload a short screen recording or GIF of the app in action._
-
----
-
 ## 📋 Table of Contents
 
 - [Overview](#overview)
@@ -208,9 +194,24 @@ python app.py
 | Layer | Technology |
 |---|---|
 | Web framework | [Flask 3.x](https://flask.palletsprojects.com/) |
-| WSGI server | [Gunicorn 22+](https://gunicorn.org/) |
 | Object detection | [YOLOv11 via Ultralytics 8.3+](https://docs.ultralytics.com/) |
 | Image processing | [Pillow 10+](https://pillow.readthedocs.io/), [OpenCV 4.10+](https://opencv.org/) |
+
+---
+
+## 📸 Demo
+
+### Image Detection
+<!-- Replace the path below with your image file -->
+![Image Detection Demo](https://raw.githubusercontent.com/Diya-MD/fish-Identification-and-detection/main/assets/output_moorish-idol.jpg)
+
+### Video Detection
+<!-- Replace the path below with your video file -->
+![Demo](https://raw.githubusercontent.com/Diya-MD/fish-Identification-and-detection/main/assets/demo.gif)
+
+> _Upload a short screen recording or GIF of the app in action._
+
+---
 | Request handling | [Werkzeug 3+](https://werkzeug.palletsprojects.com/) |
 
 ---
