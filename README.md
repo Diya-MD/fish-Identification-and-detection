@@ -9,11 +9,11 @@
 ### Image Detection
 <!-- Replace the path below with your image file -->
 ![Image Detection Demo]
-https://github.com/Diya-MD/fish-Identification-and-detectio/assets/output_moorish-idol.jpg
+(https://raw.githubusercontent.com/Diya-MD/fish-Identification-and-detection/main/assets/output_moorish-idol.jpg)
 
 ### Video Detection
 <!-- Replace the path below with your video file -->
-https://github.com/Diya-MD/fish-Identification-and-detectio/assets/output.mp4
+![Demo](https://raw.githubusercontent.com/Diya-MD/fish-Identification-and-detection/main/assets/demo.gif)
 
 > _Upload a short screen recording or GIF of the app in action._
 
