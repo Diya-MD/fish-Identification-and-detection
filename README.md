@@ -207,7 +207,6 @@ python app.py
 
 ### Video Detection
 <!-- Replace the path below with your video file -->
-![Demo](https://raw.githubusercontent.com/Diya-MD/fish-Identification-and-detection/main/assets/output.mp4)
-
+https://github.com/user-attachments/assets/2c22cd44-aedf-4795-8144-acc3ba3da6da
 
 ---
