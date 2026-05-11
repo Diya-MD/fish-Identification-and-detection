@@ -1,0 +1,6 @@
+flask>=3.0
+ultralytics>=8.3       # YOLOv11
+opencv-python>=4.10
+Pillow>=10.0
+werkzeug>=3.0
+gunicorn>=22.0         # production WSGI server
