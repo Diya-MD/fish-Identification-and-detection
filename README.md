@@ -196,7 +196,7 @@ python app.py
 | Web framework | [Flask 3.x](https://flask.palletsprojects.com/) |
 | Object detection | [YOLOv11 via Ultralytics 8.3+](https://docs.ultralytics.com/) |
 | Image processing | [Pillow 10+](https://pillow.readthedocs.io/), [OpenCV 4.10+](https://opencv.org/) |
-
+| Request handling | [Werkzeug 3+](https://werkzeug.palletsprojects.com/) |
 ---
 
 ## 📸 Demo
@@ -209,9 +209,5 @@ python app.py
 <!-- Replace the path below with your video file -->
 ![Demo](https://raw.githubusercontent.com/Diya-MD/fish-Identification-and-detection/main/assets/demo.gif)
 
-> _Upload a short screen recording or GIF of the app in action._
-
----
-| Request handling | [Werkzeug 3+](https://werkzeug.palletsprojects.com/) |
 
 ---
